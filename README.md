@@ -20,3 +20,4 @@ Welcome to my personal portfolio website built with HTML, CSS, and JavaScript.
 
 ## 📂 Folder Structure
 
+/ ├── index.html ├── stylesheet.css ├── main.js ├── assets/ │ ├── profile.jpeg │ ├── leetcode.jpg │ ├── certificate1.jpeg │ └── ...
