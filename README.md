@@ -1,2 +1,22 @@
-# Portfolio
-A personal portfolio website to showcase my skills, projects, and certifications as a Software Developer and Java Developer. Built using HTML, CSS, and JavaScript with a modern, responsive design and smooth animations.
+# 💼 Subham Kumar - Portfolio Website
+
+Welcome to my personal portfolio website built with HTML, CSS, and JavaScript.
+
+## 🚀 Features
+
+- Responsive design
+- Animated hero section
+- Skills & certificates with slider
+- Java-based project showcase
+- Contact info and social media links
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- AOS (Animate on Scroll)
+- Font Awesome
+
+## 📂 Folder Structure
+
